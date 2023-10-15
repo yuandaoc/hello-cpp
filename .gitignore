@@ -1,0 +1,2 @@
+#忽略第一章的所有可执行文件
+Chapter1-intro/*.exe
